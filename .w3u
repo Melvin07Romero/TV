@@ -1,0 +1,28 @@
+{"name": "REPLAY TV",
+"image":"https://yourclubox.com/box/Logos/img1.png",
+"author": "Cine vip",
+"stations": [
+
+{"name":"UNIVISION 45 HOUSTON", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGDHRpGnzkKgM3SMjJDlZMiMGF2dpQzxzA4SQEuDbDCA&s", 
+"url":"http://premierchile.shop:8080/live/944319949tv/mz8d0s/68664.ts"},
+
+{"name":"TYC SPORTS", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr7hUbHBqv5vcmkOpeMPwHnXj8EhDWNS4DI5XuQE3rDA&s", 
+"url":"http://181.78.27.128:8000/play/a063/index.m3u8"},
+
+{"name":"CARACOL TV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxNQfWn12T4waWMxLTEnRGZSkhmX1ABTQ_wCD6URaCBQ&s", 
+"url":"http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/135668.ts"},
+
+{"name":"CANAL 4 EL SALVADOR", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrEqLY-fM_RbMGCs39oh_q_0xyhxcBWeuM5_9qt4DGPA&s", 
+"url":"https://telecorporacion-es.cdn.vustreams.com/live/9c79f472-bb4d-4ab8-848f-eb613f3b1f96/live.isml/live.m3u8"},
+
+{"name":"HBO", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE2ux0JAMiY5b1mAB6G8CVk0g8oG3xOUCZug&usqp=CAU", 
+"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184634.m3u8"},
+
+{"name":"HBO", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE2ux0JAMiY5b1mAB6G8CVk0g8oG3xOUCZug&usqp=CAU", 
+"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184634.m3u8"},
+
+{"name":"CINE FAMILIAR", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE2ux0JAMiY5b1mAB6G8CVk0g8oG3xOUCZug&usqp=CAU", 
+"url":"http://190.0.241.181:8000/play/CINEFAMILIAR/index.m3u8"},
+
+{"name":"CINE PREMIUN","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE2ux0JAMiY5b1mAB6G8CVk0g8oG3xOUCZug&usqp=CAU",
+"url":"http://190.0.241.181:8000/play/CINEPREMIUM/index.m3u8"}]},
