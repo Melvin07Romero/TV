@@ -6,9 +6,6 @@
 {"name":"UNIVISION 45 HOUSTON", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGDHRpGnzkKgM3SMjJDlZMiMGF2dpQzxzA4SQEuDbDCA&s", 
 "url":"http://tv.proyectox.vip:8080/live/carsalazar1/4ANqaenRM5/8395.ts"},
 
-{"name":"UNIVISION 45 HOUSTON", "image":"https://yt3.googleusercontent.com/ytc/AIdro_m5mH_pkvAZ1a1AWX3ebMsYUkfTKJUNEeiAP0Dej34MHMM=s900-c-k-c0x00ffffff-no-rj", 
-"url":"http://verawest-vrcvdt.pro:8080/AndresHaro/e3ZxHnhVDnDT/1333116"},
-
 {"name":"ENLACE TV", "image":"https://static.wikia.nocookie.net/logopedia/images/f/fc/TBNEnlace2008.png/revision/latest?cb=20210330233715&path-prefix=es", 
 "url":"https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"},
 
@@ -20,9 +17,6 @@
 
 {"name":"CANAL 4 EL SALVADOR", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrEqLY-fM_RbMGCs39oh_q_0xyhxcBWeuM5_9qt4DGPA&s", 
 "url":"https://telecorporacion-es.cdn.vustreams.com/live/9c79f472-bb4d-4ab8-848f-eb613f3b1f96/live.isml/live.m3u8"},
-
-{"name":"TUDN USA", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0p2y1kjEix-xeB-VXtxVLihr7-uQFNX2oTg&s", 
-"url":"https://dai.google.com/linear/hls/event/LKaz-eTgQvawHshATl-Qdw/master.m3u8"},
 
 {"name":"CINE PREMIUN","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE2ux0JAMiY5b1mAB6G8CVk0g8oG3xOUCZug&usqp=CAU",
 "url":"http://190.0.241.181:8000/play/CINEPREMIUM/index.m3u8"}]}]}]}
